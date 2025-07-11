@@ -202,13 +202,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Multi-Branch Support**: Parallel pipeline execution across different branches
 - **Deployment Rollback**: Simulate rollback scenarios and recovery procedures
 
-## 📧 Support
-
-For questions, issues, or contributions, please:
-- Open an issue on GitHub
-- Submit a pull request with improvements
-- Contact the development team
-
 ---
 
 **Built with ❤️ for the DevOps community**
